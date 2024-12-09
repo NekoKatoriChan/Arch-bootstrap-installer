@@ -1,0 +1,36 @@
+%NAME%
+ed
+
+%INSTALLDATE%
+1733616330
+
+%VALIDATION%
+pgp
+
+%BASE%
+ed
+
+%VERSION%
+1.20.2-0
+
+%DESC%
+Classic UNIX line editor
+
+%SIZE%
+171878
+
+%URL%
+https://www.gnu.org/software/ed/
+
+%LICENSE%
+GPL-2.0
+
+%ARCH%
+aarch64
+
+%BUILDDATE%
+1713918260
+
+%PACKAGER%
+Oliver Schmidhauser @Neo-Oli
+

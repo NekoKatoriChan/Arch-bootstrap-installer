@@ -1,0 +1,6 @@
+rm -rf /data/data/com.termux/files/usr
+
+mv ~/Arch*/usr /data/data/com.termux/files/
+
+cd /data/data/com.termux/files/usr
+cat SYMLINKS.txt | awk -F "←" '{system("ln -sf \""$1"\" \""$2"\"")}'
