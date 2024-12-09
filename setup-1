@@ -1,0 +1,2 @@
+cd usr
+cat SYMLINKS.txt | awk -F "←" '{system("ln -sf \""$1"\" \""$2"\"")}'
