@@ -4,6 +4,7 @@
 
 • Gói phụ thuộc : wget, git
 
+ Vì cái này đang phát triển nên các bác vui lòng backup file usr trong Termux để tránh mất dữ liệu.
 ``git clone https://github.com/NekoKatoriChan/Arch-bootstrap-installer.git``
 
 • Clone repo của tôi và dùng nó trong Failsafe.
