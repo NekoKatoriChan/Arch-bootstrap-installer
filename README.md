@@ -12,4 +12,6 @@
 
 ``./setup-2``
 
+![aha](https://raw.githubusercontent.com/NekoKatoriChan/Arch-bootstrap-installer/refs/heads/main/IMG_20241210_055334.jpg)
+
 
