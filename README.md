@@ -1,4 +1,4 @@
-# Gì
+# Gì (Đang làm, hệ thống hỏng thì chịu)
 
 ## Cách cài
 
